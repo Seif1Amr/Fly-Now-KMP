@@ -33,3 +33,11 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+### Android studio view
+
+<img width="1919" height="1012" alt="Screenshot 2025-10-07 192844" src="https://github.com/user-attachments/assets/274565b4-51a9-49a7-95f8-8d195eb0407f" />
+<img width="472" height="768" alt="Screenshot 2025-10-07 193126" src="https://github.com/user-attachments/assets/1e7054c4-7542-4ec7-aeae-6c3d6f78cbba" />
+<img width="512" height="920" alt="Screenshot 2025-10-07 193054" src="https://github.com/user-attachments/assets/9130bd79-4825-428f-8114-8ce3402b2a46" />
+<img width="1919" height="1011" alt="Screenshot 2025-10-07 193003" src="https://github.com/user-attachments/assets/866e101c-4b77-4225-bc24-f91a14cf7d82" />
+<img width="1916" height="1008" alt="Screenshot 2025-10-07 192927" src="https://github.com/user-attachments/assets/36661bf3-fbea-40d3-bf98-6e544e56f8f5" />
